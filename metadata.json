@@ -1,0 +1,6 @@
+{
+  "name": "Gerador de Storyboard AI",
+  "description": "Crie um storyboard de 10 cenas a partir de uma premissa de história. O aplicativo gera descrições de cenas e imagens correspondentes usando a API do Gemini.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
